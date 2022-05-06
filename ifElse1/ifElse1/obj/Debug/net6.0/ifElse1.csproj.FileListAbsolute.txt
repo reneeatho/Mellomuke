@@ -1,0 +1,5 @@
+/Users/reneethorstensen/Documents/Get Academy/Modul3/Mellomuke/Oppgaver/ifElse1/ifElse1/obj/Debug/net6.0/ifElse1.csproj.AssemblyReference.cache
+/Users/reneethorstensen/Documents/Get Academy/Modul3/Mellomuke/Oppgaver/ifElse1/ifElse1/obj/Debug/net6.0/ifElse1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/reneethorstensen/Documents/Get Academy/Modul3/Mellomuke/Oppgaver/ifElse1/ifElse1/obj/Debug/net6.0/ifElse1.AssemblyInfoInputs.cache
+/Users/reneethorstensen/Documents/Get Academy/Modul3/Mellomuke/Oppgaver/ifElse1/ifElse1/obj/Debug/net6.0/ifElse1.AssemblyInfo.cs
+/Users/reneethorstensen/Documents/Get Academy/Modul3/Mellomuke/Oppgaver/ifElse1/ifElse1/obj/Debug/net6.0/ifElse1.csproj.CoreCompileInputs.cache
