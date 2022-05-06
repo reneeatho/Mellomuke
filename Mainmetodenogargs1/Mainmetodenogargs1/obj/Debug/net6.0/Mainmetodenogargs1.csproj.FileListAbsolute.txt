@@ -1,0 +1,15 @@
+/Users/reneethorstensen/Documents/Get Academy/Modul3/Mellomuke/Oppgaver/Mainmetodenogargs1/Mainmetodenogargs1/bin/Debug/net6.0/Mainmetodenogargs1
+/Users/reneethorstensen/Documents/Get Academy/Modul3/Mellomuke/Oppgaver/Mainmetodenogargs1/Mainmetodenogargs1/bin/Debug/net6.0/Mainmetodenogargs1.deps.json
+/Users/reneethorstensen/Documents/Get Academy/Modul3/Mellomuke/Oppgaver/Mainmetodenogargs1/Mainmetodenogargs1/bin/Debug/net6.0/Mainmetodenogargs1.runtimeconfig.json
+/Users/reneethorstensen/Documents/Get Academy/Modul3/Mellomuke/Oppgaver/Mainmetodenogargs1/Mainmetodenogargs1/bin/Debug/net6.0/Mainmetodenogargs1.dll
+/Users/reneethorstensen/Documents/Get Academy/Modul3/Mellomuke/Oppgaver/Mainmetodenogargs1/Mainmetodenogargs1/bin/Debug/net6.0/Mainmetodenogargs1.pdb
+/Users/reneethorstensen/Documents/Get Academy/Modul3/Mellomuke/Oppgaver/Mainmetodenogargs1/Mainmetodenogargs1/obj/Debug/net6.0/Mainmetodenogargs1.csproj.AssemblyReference.cache
+/Users/reneethorstensen/Documents/Get Academy/Modul3/Mellomuke/Oppgaver/Mainmetodenogargs1/Mainmetodenogargs1/obj/Debug/net6.0/Mainmetodenogargs1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/reneethorstensen/Documents/Get Academy/Modul3/Mellomuke/Oppgaver/Mainmetodenogargs1/Mainmetodenogargs1/obj/Debug/net6.0/Mainmetodenogargs1.AssemblyInfoInputs.cache
+/Users/reneethorstensen/Documents/Get Academy/Modul3/Mellomuke/Oppgaver/Mainmetodenogargs1/Mainmetodenogargs1/obj/Debug/net6.0/Mainmetodenogargs1.AssemblyInfo.cs
+/Users/reneethorstensen/Documents/Get Academy/Modul3/Mellomuke/Oppgaver/Mainmetodenogargs1/Mainmetodenogargs1/obj/Debug/net6.0/Mainmetodenogargs1.csproj.CoreCompileInputs.cache
+/Users/reneethorstensen/Documents/Get Academy/Modul3/Mellomuke/Oppgaver/Mainmetodenogargs1/Mainmetodenogargs1/obj/Debug/net6.0/Mainmetodenogargs1.dll
+/Users/reneethorstensen/Documents/Get Academy/Modul3/Mellomuke/Oppgaver/Mainmetodenogargs1/Mainmetodenogargs1/obj/Debug/net6.0/refint/Mainmetodenogargs1.dll
+/Users/reneethorstensen/Documents/Get Academy/Modul3/Mellomuke/Oppgaver/Mainmetodenogargs1/Mainmetodenogargs1/obj/Debug/net6.0/Mainmetodenogargs1.pdb
+/Users/reneethorstensen/Documents/Get Academy/Modul3/Mellomuke/Oppgaver/Mainmetodenogargs1/Mainmetodenogargs1/obj/Debug/net6.0/Mainmetodenogargs1.genruntimeconfig.cache
+/Users/reneethorstensen/Documents/Get Academy/Modul3/Mellomuke/Oppgaver/Mainmetodenogargs1/Mainmetodenogargs1/obj/Debug/net6.0/ref/Mainmetodenogargs1.dll
