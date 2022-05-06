@@ -1,0 +1,15 @@
+/Users/reneethorstensen/Documents/Get Academy/Modul3/Mellomuke/Oppgaver/ifElse3/ifElse3/bin/Debug/net6.0/ifElse3
+/Users/reneethorstensen/Documents/Get Academy/Modul3/Mellomuke/Oppgaver/ifElse3/ifElse3/bin/Debug/net6.0/ifElse3.deps.json
+/Users/reneethorstensen/Documents/Get Academy/Modul3/Mellomuke/Oppgaver/ifElse3/ifElse3/bin/Debug/net6.0/ifElse3.runtimeconfig.json
+/Users/reneethorstensen/Documents/Get Academy/Modul3/Mellomuke/Oppgaver/ifElse3/ifElse3/bin/Debug/net6.0/ifElse3.dll
+/Users/reneethorstensen/Documents/Get Academy/Modul3/Mellomuke/Oppgaver/ifElse3/ifElse3/bin/Debug/net6.0/ifElse3.pdb
+/Users/reneethorstensen/Documents/Get Academy/Modul3/Mellomuke/Oppgaver/ifElse3/ifElse3/obj/Debug/net6.0/ifElse3.csproj.AssemblyReference.cache
+/Users/reneethorstensen/Documents/Get Academy/Modul3/Mellomuke/Oppgaver/ifElse3/ifElse3/obj/Debug/net6.0/ifElse3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/reneethorstensen/Documents/Get Academy/Modul3/Mellomuke/Oppgaver/ifElse3/ifElse3/obj/Debug/net6.0/ifElse3.AssemblyInfoInputs.cache
+/Users/reneethorstensen/Documents/Get Academy/Modul3/Mellomuke/Oppgaver/ifElse3/ifElse3/obj/Debug/net6.0/ifElse3.AssemblyInfo.cs
+/Users/reneethorstensen/Documents/Get Academy/Modul3/Mellomuke/Oppgaver/ifElse3/ifElse3/obj/Debug/net6.0/ifElse3.csproj.CoreCompileInputs.cache
+/Users/reneethorstensen/Documents/Get Academy/Modul3/Mellomuke/Oppgaver/ifElse3/ifElse3/obj/Debug/net6.0/ifElse3.dll
+/Users/reneethorstensen/Documents/Get Academy/Modul3/Mellomuke/Oppgaver/ifElse3/ifElse3/obj/Debug/net6.0/refint/ifElse3.dll
+/Users/reneethorstensen/Documents/Get Academy/Modul3/Mellomuke/Oppgaver/ifElse3/ifElse3/obj/Debug/net6.0/ifElse3.pdb
+/Users/reneethorstensen/Documents/Get Academy/Modul3/Mellomuke/Oppgaver/ifElse3/ifElse3/obj/Debug/net6.0/ifElse3.genruntimeconfig.cache
+/Users/reneethorstensen/Documents/Get Academy/Modul3/Mellomuke/Oppgaver/ifElse3/ifElse3/obj/Debug/net6.0/ref/ifElse3.dll
