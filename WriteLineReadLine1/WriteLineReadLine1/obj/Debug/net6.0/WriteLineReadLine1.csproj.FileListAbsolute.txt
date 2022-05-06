@@ -1,0 +1,15 @@
+/Users/reneethorstensen/Documents/Get Academy/Modul3/Mellomuke/Oppgaver/WriteLineReadLine1/WriteLineReadLine1/bin/Debug/net6.0/WriteLineReadLine1
+/Users/reneethorstensen/Documents/Get Academy/Modul3/Mellomuke/Oppgaver/WriteLineReadLine1/WriteLineReadLine1/bin/Debug/net6.0/WriteLineReadLine1.deps.json
+/Users/reneethorstensen/Documents/Get Academy/Modul3/Mellomuke/Oppgaver/WriteLineReadLine1/WriteLineReadLine1/bin/Debug/net6.0/WriteLineReadLine1.runtimeconfig.json
+/Users/reneethorstensen/Documents/Get Academy/Modul3/Mellomuke/Oppgaver/WriteLineReadLine1/WriteLineReadLine1/bin/Debug/net6.0/WriteLineReadLine1.dll
+/Users/reneethorstensen/Documents/Get Academy/Modul3/Mellomuke/Oppgaver/WriteLineReadLine1/WriteLineReadLine1/bin/Debug/net6.0/WriteLineReadLine1.pdb
+/Users/reneethorstensen/Documents/Get Academy/Modul3/Mellomuke/Oppgaver/WriteLineReadLine1/WriteLineReadLine1/obj/Debug/net6.0/WriteLineReadLine1.csproj.AssemblyReference.cache
+/Users/reneethorstensen/Documents/Get Academy/Modul3/Mellomuke/Oppgaver/WriteLineReadLine1/WriteLineReadLine1/obj/Debug/net6.0/WriteLineReadLine1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/reneethorstensen/Documents/Get Academy/Modul3/Mellomuke/Oppgaver/WriteLineReadLine1/WriteLineReadLine1/obj/Debug/net6.0/WriteLineReadLine1.AssemblyInfoInputs.cache
+/Users/reneethorstensen/Documents/Get Academy/Modul3/Mellomuke/Oppgaver/WriteLineReadLine1/WriteLineReadLine1/obj/Debug/net6.0/WriteLineReadLine1.AssemblyInfo.cs
+/Users/reneethorstensen/Documents/Get Academy/Modul3/Mellomuke/Oppgaver/WriteLineReadLine1/WriteLineReadLine1/obj/Debug/net6.0/WriteLineReadLine1.csproj.CoreCompileInputs.cache
+/Users/reneethorstensen/Documents/Get Academy/Modul3/Mellomuke/Oppgaver/WriteLineReadLine1/WriteLineReadLine1/obj/Debug/net6.0/WriteLineReadLine1.dll
+/Users/reneethorstensen/Documents/Get Academy/Modul3/Mellomuke/Oppgaver/WriteLineReadLine1/WriteLineReadLine1/obj/Debug/net6.0/refint/WriteLineReadLine1.dll
+/Users/reneethorstensen/Documents/Get Academy/Modul3/Mellomuke/Oppgaver/WriteLineReadLine1/WriteLineReadLine1/obj/Debug/net6.0/WriteLineReadLine1.pdb
+/Users/reneethorstensen/Documents/Get Academy/Modul3/Mellomuke/Oppgaver/WriteLineReadLine1/WriteLineReadLine1/obj/Debug/net6.0/WriteLineReadLine1.genruntimeconfig.cache
+/Users/reneethorstensen/Documents/Get Academy/Modul3/Mellomuke/Oppgaver/WriteLineReadLine1/WriteLineReadLine1/obj/Debug/net6.0/ref/WriteLineReadLine1.dll

@@ -1,0 +1,15 @@
+/Users/reneethorstensen/Documents/Get Academy/Modul3/Mellomuke/Oppgaver/Returverdier2/Returverdier2/bin/Debug/net6.0/Returverdier2
+/Users/reneethorstensen/Documents/Get Academy/Modul3/Mellomuke/Oppgaver/Returverdier2/Returverdier2/bin/Debug/net6.0/Returverdier2.deps.json
+/Users/reneethorstensen/Documents/Get Academy/Modul3/Mellomuke/Oppgaver/Returverdier2/Returverdier2/bin/Debug/net6.0/Returverdier2.runtimeconfig.json
+/Users/reneethorstensen/Documents/Get Academy/Modul3/Mellomuke/Oppgaver/Returverdier2/Returverdier2/bin/Debug/net6.0/Returverdier2.dll
+/Users/reneethorstensen/Documents/Get Academy/Modul3/Mellomuke/Oppgaver/Returverdier2/Returverdier2/bin/Debug/net6.0/Returverdier2.pdb
+/Users/reneethorstensen/Documents/Get Academy/Modul3/Mellomuke/Oppgaver/Returverdier2/Returverdier2/obj/Debug/net6.0/Returverdier2.csproj.AssemblyReference.cache
+/Users/reneethorstensen/Documents/Get Academy/Modul3/Mellomuke/Oppgaver/Returverdier2/Returverdier2/obj/Debug/net6.0/Returverdier2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/reneethorstensen/Documents/Get Academy/Modul3/Mellomuke/Oppgaver/Returverdier2/Returverdier2/obj/Debug/net6.0/Returverdier2.AssemblyInfoInputs.cache
+/Users/reneethorstensen/Documents/Get Academy/Modul3/Mellomuke/Oppgaver/Returverdier2/Returverdier2/obj/Debug/net6.0/Returverdier2.AssemblyInfo.cs
+/Users/reneethorstensen/Documents/Get Academy/Modul3/Mellomuke/Oppgaver/Returverdier2/Returverdier2/obj/Debug/net6.0/Returverdier2.csproj.CoreCompileInputs.cache
+/Users/reneethorstensen/Documents/Get Academy/Modul3/Mellomuke/Oppgaver/Returverdier2/Returverdier2/obj/Debug/net6.0/Returverdier2.dll
+/Users/reneethorstensen/Documents/Get Academy/Modul3/Mellomuke/Oppgaver/Returverdier2/Returverdier2/obj/Debug/net6.0/refint/Returverdier2.dll
+/Users/reneethorstensen/Documents/Get Academy/Modul3/Mellomuke/Oppgaver/Returverdier2/Returverdier2/obj/Debug/net6.0/Returverdier2.pdb
+/Users/reneethorstensen/Documents/Get Academy/Modul3/Mellomuke/Oppgaver/Returverdier2/Returverdier2/obj/Debug/net6.0/Returverdier2.genruntimeconfig.cache
+/Users/reneethorstensen/Documents/Get Academy/Modul3/Mellomuke/Oppgaver/Returverdier2/Returverdier2/obj/Debug/net6.0/ref/Returverdier2.dll

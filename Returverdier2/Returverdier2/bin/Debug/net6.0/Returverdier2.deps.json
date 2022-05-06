@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Returverdier2/1.0.0": {
+        "runtime": {
+          "Returverdier2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Returverdier2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

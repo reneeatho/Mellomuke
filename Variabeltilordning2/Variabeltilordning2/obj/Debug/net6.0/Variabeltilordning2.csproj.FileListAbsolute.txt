@@ -1,0 +1,15 @@
+/Users/reneethorstensen/Documents/Get Academy/Modul3/Mellomuke/Oppgaver/Variabeltilordning2/Variabeltilordning2/bin/Debug/net6.0/Variabeltilordning2
+/Users/reneethorstensen/Documents/Get Academy/Modul3/Mellomuke/Oppgaver/Variabeltilordning2/Variabeltilordning2/bin/Debug/net6.0/Variabeltilordning2.deps.json
+/Users/reneethorstensen/Documents/Get Academy/Modul3/Mellomuke/Oppgaver/Variabeltilordning2/Variabeltilordning2/bin/Debug/net6.0/Variabeltilordning2.runtimeconfig.json
+/Users/reneethorstensen/Documents/Get Academy/Modul3/Mellomuke/Oppgaver/Variabeltilordning2/Variabeltilordning2/bin/Debug/net6.0/Variabeltilordning2.dll
+/Users/reneethorstensen/Documents/Get Academy/Modul3/Mellomuke/Oppgaver/Variabeltilordning2/Variabeltilordning2/bin/Debug/net6.0/Variabeltilordning2.pdb
+/Users/reneethorstensen/Documents/Get Academy/Modul3/Mellomuke/Oppgaver/Variabeltilordning2/Variabeltilordning2/obj/Debug/net6.0/Variabeltilordning2.csproj.AssemblyReference.cache
+/Users/reneethorstensen/Documents/Get Academy/Modul3/Mellomuke/Oppgaver/Variabeltilordning2/Variabeltilordning2/obj/Debug/net6.0/Variabeltilordning2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/reneethorstensen/Documents/Get Academy/Modul3/Mellomuke/Oppgaver/Variabeltilordning2/Variabeltilordning2/obj/Debug/net6.0/Variabeltilordning2.AssemblyInfoInputs.cache
+/Users/reneethorstensen/Documents/Get Academy/Modul3/Mellomuke/Oppgaver/Variabeltilordning2/Variabeltilordning2/obj/Debug/net6.0/Variabeltilordning2.AssemblyInfo.cs
+/Users/reneethorstensen/Documents/Get Academy/Modul3/Mellomuke/Oppgaver/Variabeltilordning2/Variabeltilordning2/obj/Debug/net6.0/Variabeltilordning2.csproj.CoreCompileInputs.cache
+/Users/reneethorstensen/Documents/Get Academy/Modul3/Mellomuke/Oppgaver/Variabeltilordning2/Variabeltilordning2/obj/Debug/net6.0/Variabeltilordning2.dll
+/Users/reneethorstensen/Documents/Get Academy/Modul3/Mellomuke/Oppgaver/Variabeltilordning2/Variabeltilordning2/obj/Debug/net6.0/refint/Variabeltilordning2.dll
+/Users/reneethorstensen/Documents/Get Academy/Modul3/Mellomuke/Oppgaver/Variabeltilordning2/Variabeltilordning2/obj/Debug/net6.0/Variabeltilordning2.pdb
+/Users/reneethorstensen/Documents/Get Academy/Modul3/Mellomuke/Oppgaver/Variabeltilordning2/Variabeltilordning2/obj/Debug/net6.0/Variabeltilordning2.genruntimeconfig.cache
+/Users/reneethorstensen/Documents/Get Academy/Modul3/Mellomuke/Oppgaver/Variabeltilordning2/Variabeltilordning2/obj/Debug/net6.0/ref/Variabeltilordning2.dll
